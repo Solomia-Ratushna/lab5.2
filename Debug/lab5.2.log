@@ -1,0 +1,5 @@
+﻿  Other.cpp
+  Source.cpp
+C:\Users\ADMIN\Desktop\lab5.2\lab5.2\Source.cpp(144,34): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  lab5.2.vcxproj -> C:\Users\ADMIN\Desktop\lab5.2\lab5.2\Debug\lab5.2.exe
